@@ -17,6 +17,7 @@ Tasks you can do:
    2.1. You can create your own file format and create a method that imports it to a dictionary/list or whatever structure you choose
 3. Can add some pagination
       Saying like Slide 1 out of 10 that is displayed on each slide.
+4. Improve the code that navigates through the slides.
       
       
 
